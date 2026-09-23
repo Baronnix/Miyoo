@@ -111,6 +111,16 @@ Sur la carte SD, Onion crée automatiquement :
 /saves/
 ```
 
+
+## Quelques sites de homebrew
+
+* https://www.tyranight.fr/homebrewroms.php
+* https://www.gamebrew.org/
+
+## Quelques sites de d'abandonware
+
+* https://www.abandonware-france.org
+
 ## 📥 Copier les ROMs
 
 1. Ouvre le dossier /roms/

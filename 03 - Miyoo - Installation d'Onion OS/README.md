@@ -40,16 +40,26 @@ Ce ZIP contient :
 
 # 2️⃣ Préparer la carte SD
 
+## 📥 Télécharger et installer Rufus
+
+1. Rendez-vous sur le site officiel : https://rufus.ie
+2. Téléchargez la dernière version standard de Rufus.
+3. Double-cliquez sur le fichier téléchargé.
+4. Autorisez l'exécution si Windows demande une confirmation.
+5. Suivez l'assistant d'installation.
+
 ## 🧽 Formater la carte SD
 
-1. Insère la carte SD dans ton PC.
-2. Ouvre l’outil de formatage :
-    * Windows : Explorateur → clic droit → Formater
-    * macOS : Utilitaire de disque → Effacer
-3. Choisis :
-    * FAT32 (obligatoire)
-    * Allocation : 32K (si disponible)
-4. Lance le formatage.
+1. Connecter la carte microSD à votre ordinateur via un lecteur de cartes.
+2. Lancez Rufus.
+3. Dans Périphérique, sélectionnez votre carte microSD.
+4. Choisis :
+    * Type de démarrage: Non amorçable
+    * Schéma de partition: MBR
+    * Système de fichiers: FAT32 (obligatoire)
+    * Taille d'unité d'allocation : 32 kilooctets (32K)
+    * Nom de volume: Décocher
+4. Lancer le formatage: Cliquez sur Démarrer.
 
 ## 🔍 Vérification
 

@@ -39,16 +39,26 @@ Tu dois télécharger le fichier ZIP contenant :
 
 # 2️⃣ Préparer la carte SD
 
+## 📥 Télécharger et installer Rufus
+
+1. Rendez-vous sur le site officiel : https://rufus.ie
+2. Téléchargez la dernière version standard de Rufus.
+3. Double-cliquez sur le fichier téléchargé.
+4. Autorisez l'exécution si Windows demande une confirmation.
+5. Suivez l'assistant d'installation.
+
 ## 🧽 Formater la carte SD
 
-1. Insère la carte SD dans ton PC.
-2. Ouvre l’outil de formatage :
-    * Windows : Explorateur → clic droit → Formater
-    * macOS : Utilitaire de disque → Effacer
-3. Choisis :
-    * FAT32 (obligatoire)
-    * Allocation : 32K (si disponible)
-4. Lance le formatage.
+1. Connecter la carte microSD à votre ordinateur via un lecteur de cartes.
+2. Lancez Rufus.
+3. Dans Périphérique, sélectionnez votre carte microSD.
+4. Choisis :
+    * Type de démarrage: Non amorçable
+    * Schéma de partition: MBR
+    * Système de fichiers: FAT32 (obligatoire)
+    * Taille d'unité d'allocation : 32 kilooctets (32K)
+    * Nom de volume: Décocher
+4. Lancer le formatage: Cliquez sur Démarrer.
 
 ## 🔍 Vérification
 
@@ -153,3 +163,18 @@ Exemple :
 
 * Utiliser une carte SD de marque (Sandisk, Samsung)
 * Éviter les cartes SD trop lentes (classe 4 ou moins)
+
+
+https://github.com/DantSu/Telmi-Sync/
+https://telmi.fr/
+
+https://github.com/DantSu/Telmi-story-teller
+
+
+Rufus
+https://rufus.ie/fr/
+https://wiki.telmi.fr/
+
+
+https://www.tyranight.fr/homebrewroms.php
+https://www.abandonware-france.org/ltf_abandon/ltf_listes_jeux.php?format=setuppc&rub=&multi=&annee=&pays=&langue=&ordre=alpha&search=0

@@ -4,7 +4,7 @@ Dans cet épisode, on transforme complètement la Miyoo Mini+ avec Telmi OS. On 
 
 # 📺 Vidéo
 
-Lien Youtube: [https://www.youtube.com/@Baronnix/playlists](https://www.youtube.com/@Baronnix/playlists)
+Lien Youtube: [https://www.youtube.com/watch?v=x58diARJ0Do](https://www.youtube.com/watch?v=x58diARJ0Do)
 
 # 🎯 Objectifs de l’épisode
 
@@ -172,9 +172,7 @@ https://github.com/DantSu/Telmi-story-teller
 
 
 Rufus
-https://rufus.ie/fr/
+
 https://wiki.telmi.fr/
 
 
-https://www.tyranight.fr/homebrewroms.php
-https://www.abandonware-france.org/ltf_abandon/ltf_listes_jeux.php?format=setuppc&rub=&multi=&annee=&pays=&langue=&ordre=alpha&search=0

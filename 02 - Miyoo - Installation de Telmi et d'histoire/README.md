@@ -8,14 +8,13 @@ Lien Youtube: [https://www.youtube.com/watch?v=x58diARJ0Do](https://www.youtube.
 
 # 🎯 Objectifs de l’épisode
 
-* Télécharger Telmi OS et préparer une carte SD propre.
-* Installer l’OS et effectuer le premier démarrage.
+* Télécharger Telmi Sync et préparer une carte SD propre.
+* Installer Telmi OS et effectuer le premier démarrage.
 * Explorer l’interface Telmi : menus, options, thèmes.
 * Accéder au Store Telmi :
     * télécharger des histoires,
-    * les organiser sur la carte SD,
+    * télécharger des podcasts,
     * les lancer sur la console.
-* Optimiser la carte SD : structure des dossiers, bonnes pratiques.
 
 # 📦 Matériel nécessaire
 
@@ -23,19 +22,9 @@ Lien Youtube: [https://www.youtube.com/watch?v=x58diARJ0Do](https://www.youtube.
 * Carte Micro-SD + lecteur
 * Un ordinateur (tutoriel réalisé sur Windows)
 
-# 1️⃣ Télécharger Telmi OS
+# 1️⃣ Découvrir Telmi
 
-## 📥 Lien de téléchargement
-
-👉 Telmi OS (site officiel): https://telmi.app/download  
-
-Remarque: Si le lien change, il est toujours accessible via le menu “Download” du site Telmi.
-
-## 📦 Fichiers à récupérer
-
-Tu dois télécharger le fichier ZIP contenant :
-* Le dossier TelmiOS
-* Les fichiers système à copier sur la carte SD
+👉 Telmi (site officiel): https://telmi.fr/
 
 # 2️⃣ Préparer la carte SD
 
@@ -66,13 +55,23 @@ La carte doit être vide et propre avant installation.
 
 # 3️⃣ Installer Telmi OS sur la carte SD
 
-## 📁 Copier les fichiers
+## 📥 Télécharger et installer Telmi Sync
 
-1. Ouvre le ZIP téléchargé.
-2. Copie tous les fichiers et dossiers à la racine de la carte SD.
-    * Pas de dossier supplémentaire
-    * Pas de renommage
-3. Éjecte proprement la carte SD.
+1. Aller dans la section "Télécharger" sur https://telmi.fr/
+2. Choisir la version du système d'exploitation de votre ordinateur (Windows dans ce tutoriel)
+3. Lancer le fichier téléchargé et installer Telmi Sync
+4. Une fois installé, lancer Telmi Sync
+
+
+## 📁 Installer Telmi OS sur la carte SD
+
+1. Insère la carte SD dans le lecteur de carte connecté ou intégré à ton ordinateur
+2. Dans Telmi Sync va dans: Synchroniser -> Histoires
+3. Clique sur " Créer une carte Telmi OS"
+4. Choisit ta carte SD
+5. Confirme la création et le formatage
+6. Une fois terminé, vérifie que la carte contient bien les fichier de Telmi OS
+7. Éjecte proprement la carte SD.
 
 ## 🔄 Premier démarrage
 
@@ -90,28 +89,35 @@ La carte doit être vide et propre avant installation.
 * Sélection du thème
 * Vérification du stockage
 
-# 4️⃣ Découvrir le Store Telmi
+# 4️⃣ Découvrir le Store Telmi et les podcasts
 
-## 🛒 Accès au Store
+## 🛒 Télécharger des histoires
 
-Dans Telmi OS :
-1. Menu principal
-2. Section Store
-3. Catégories disponibles :
-    * Histoires
-    * Packs interactifs
-    * Contenus éducatifs
-    * Contenus audio
+1. Insère la carte SD dans le lecteur de carte connecté ou intégré à ton ordinateur
+2. Dans Telmi Sync va dans: Stores -> Telmi Interactive
+3. Choisit les histoires voulues et télécharge les
+4. Retourne dans Synchroniser
+5. Choisit les histoires et synchronise les avec la carte
+6. Éjecte proprement la carte SD.
+7. Insère la carte SD dans la Miyoo Mini+.
+8. Allume la console et profite des histoires.
 
-## 📥 Télécharger une histoire
+## 📥 Télécharger des podcasts
 
-1. Choisis une histoire dans le Store.
-2. Télécharge-la.
-3. Le fichier obtenu est généralement :
-    * .telmi
-    * ou un dossier contenant texte + images
+1. Insère la carte SD dans le lecteur de carte connecté ou intégré à ton ordinateur
+2. Dans Telmi Sync va dans: Podcasts 
+3. Choisit les podcasts voulus en ajoutant le flux RSS
+4. Dans Telmi Sync va dans: Stores
+5. Ouvre l'onglet correspondant au ton flux RSS ajouté
+6. Choisit les podcasts que tu souhaites et crée un pack
+    * pour la fluidité de navigation privilégie de petits pack avec 20 podacats max
+7. Retourne dans Synchroniser
+8. Choisit les packs de podcasts et synchronise les avec la carte
+9. Éjecte proprement la carte SD.
+10. Insère la carte SD dans la Miyoo Mini+.
+11. Allume la console et profite des podcasts.
 
-# 5️⃣ Installer les histoires sur la carte SD
+# 5️⃣ Vérifier les histoires et podcasts sur la carte SD
 
 ## 📁 Structure des dossiers Telmi OS
 
@@ -120,28 +126,19 @@ Sur la carte SD, tu trouveras un dossier :
 /stories/
 ```
 
-## 📥 Étape 1 — Copier les histoires
-
-1. Place chaque histoire dans un dossier dédié :
+Chaque histoire est contenue dans un dossier dédié :
 
 Exemple :
 ```
 /stories/mon_histoire/
 ```
 
-2. Vérifie que le fichier .telmi ou les fichiers texte/images sont bien présents.
-
-## 🧪 Étape 2 — Tester sur la console
+## 🧪 Tester sur la console
 
 1. Insère la carte SD dans la Miyoo.
 2. Lance Telmi OS.
 3. Va dans Histoires.
-4. Ouvre l’histoire installée.
-5. Vérifie :
-    * Le texte
-    * Les images
-    * Les transitions
-    * La fluidité
+4. Ouvre les histoires et podcasts installés.
 
 # 6️⃣ Optimisations recommandées
 
@@ -164,15 +161,9 @@ Exemple :
 * Utiliser une carte SD de marque (Sandisk, Samsung)
 * Éviter les cartes SD trop lentes (classe 4 ou moins)
 
+## 🔗 Référence
 
-https://github.com/DantSu/Telmi-Sync/
-https://telmi.fr/
-
-https://github.com/DantSu/Telmi-story-teller
-
-
-Rufus
-
-https://wiki.telmi.fr/
-
-
+* Site Officiel: https://telmi.fr/
+* Wiki Telmi: https://wiki.telmi.fr/
+* GitHub Telmi Sync: https://github.com/DantSu/Telmi-Sync/
+* GitHub Telmi OS: https://github.com/DantSu/Telmi-story-teller

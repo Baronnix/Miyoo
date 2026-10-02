@@ -111,7 +111,6 @@ Sur la carte SD, Onion crée automatiquement :
 /saves/
 ```
 
-
 ## Quelques sites de homebrew
 
 * https://www.tyranight.fr/homebrewroms.php

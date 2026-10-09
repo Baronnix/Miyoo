@@ -4,7 +4,9 @@ On découvre ensemble la Miyoo Mini Plus, une petite console rétro. Je vais te 
 
 # 📺 Vidéo
 
-Lien Youtube: [https://www.youtube.com/watch?v=jyns9jAC-m4](https://www.youtube.com/watch?v=jyns9jAC-m4)
+Liens Youtube: 
+* Présentation du projet: [https://www.youtube.com/watch?v=jyns9jAC-m4](https://www.youtube.com/watch?v=jyns9jAC-m4)
+* Présentation du cadeau final: [https://www.youtube.com/watch?v=LFudakOCybI](https://www.youtube.com/watch?v=LFudakOCybI)
 
 # 🎯 Objectifs de l’épisode
 

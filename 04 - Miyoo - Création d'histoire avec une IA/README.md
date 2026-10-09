@@ -4,7 +4,9 @@ Dans cet épisode, on va créer ensemble une histoire Telmi entièrement génér
 
 # 📺 Vidéo
 
-Lien Youtube: [https://www.youtube.com/@Baronnix/playlists](https://www.youtube.com/@Baronnix/playlists)
+Liens Youtube: 
+* Utiliser et adapter l'histoire personnalisee: [https://www.youtube.com/watch?v=yAt47GQ6ck8](https://www.youtube.com/watch?v=yAt47GQ6ck8)
+
 
 # 🎯 Objectifs de l’épisode
 

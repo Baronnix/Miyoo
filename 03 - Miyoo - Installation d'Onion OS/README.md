@@ -4,7 +4,7 @@ On passe maintenant à Onion OS, l’un des systèmes les plus populaires pour l
 
 # 📺 Vidéo
 
-Lien Youtube: [https://www.youtube.com/watch?v=7HeYQMp-wo8](https://www.youtube.com/watch?v=7HeYQMp-wo8)
+Lien Youtube: [https://www.youtube.com/watch?v=Zsf10AMY038](https://www.youtube.com/watch?v=Zsf10AMY038)
 
 # 🎯 Objectifs de l’épisode
 

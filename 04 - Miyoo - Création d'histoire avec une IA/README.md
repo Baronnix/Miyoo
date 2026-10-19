@@ -6,6 +6,7 @@ Dans cet épisode, on va créer ensemble une histoire Telmi entièrement génér
 
 Liens Youtube: 
 * Utiliser et adapter l'histoire personnalisee: [https://www.youtube.com/watch?v=yAt47GQ6ck8](https://www.youtube.com/watch?v=yAt47GQ6ck8)
+* Création complète d’une histoire grâce à une IA: [https://www.youtube.com/watch?v=9dnb1Ats3H8](https://www.youtube.com/watch?v=9dnb1Ats3H8)
 
 
 # 🎯 Objectifs de l’épisode
